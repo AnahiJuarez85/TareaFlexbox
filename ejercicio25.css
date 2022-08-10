@@ -1,0 +1,9 @@
+.Palabra{
+    background-color: blueviolet;
+    color:aquamarine;
+   
+    display:flex;
+    }
+    .elemento:nth-child(even){
+    order:1;
+    }

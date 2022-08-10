@@ -1,0 +1,4 @@
+body{background-color: #EC7063; font-family:gill sans;}
+
+.Palabra{display:flex; flex-wrap:wrap;}
+.Palabra div { width: 400px;}

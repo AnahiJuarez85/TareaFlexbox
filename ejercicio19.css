@@ -1,0 +1,11 @@
+.Palabra{
+    background-color:antiquewhite;
+    height:240px;
+    display:flex;
+    flex-flow:row wrap;
+    align-content:stretch;
+    justify-content: space-between;
+    }
+    .elemento{
+    width:21%;
+    }

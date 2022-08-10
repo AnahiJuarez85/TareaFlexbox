@@ -1,0 +1,13 @@
+.Palabra{
+    background-color: blue;
+    color:bisque;
+    font-family:'Courier New';
+    font-size:large ;
+    height:240px;
+    display:flex;
+    flex-flow:row wrap;
+    align-content:center;
+    }
+    .elemento{
+    width:21%;
+    }

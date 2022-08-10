@@ -1,0 +1,11 @@
+body{background-color: #f0c312  ; font-family:franklin}
+
+.Palabra{
+    height:240px;
+    display:flex;
+    flex-flow:row wrap;
+    align-items:flex-start;
+    }
+    .elemento{
+    width:20%;
+    }
